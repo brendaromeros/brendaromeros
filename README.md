@@ -11,7 +11,10 @@ Soy estudiante de Ingeniería Eléctrica en la Universidad de Costa Rica (UCR) c
 - **Computación de alto rendimiento**: Aprendiendo sobre developer kits de Nvidia Jetson Nano 2GB
 - **Sistemas operativos**: Alto manejo de Linux
 
-## 🚀 Proyecto Destacado
+## 🚀 Proyectos Destacados
+### [Tareas_del_curso_Digitales II](https://github.com/brendaromeros/Curso_de_verilog)
+Este repositorio reúne varios proyectos en Verilog, incluyendo un controlador SPI para la comunicación entre un master y dos slaves, un sistema de semáforos peatonales que coordina los cambios de estado para evitar accidentes y una calculadora de 8 bits capaz de realizar operaciones básicas como suma, resta, multiplicación y left shift. Cada diseño fue validado mediante simulaciones y pruebas, asegurando su correcto funcionamiento y permitiendo la aplicación práctica de conceptos de diseño digital.
+
 ### [Proyecto Digitales II](https://github.com/brendaromeros/MDIO_verilog)
 Un proyecto en Verilog donde diseñé e implementé una ALU de 4 bits con operaciones aritméticas y lógicas, simulada y probada con testbenches. Durante su desarrollo, adquirí experiencia en depuración de errores y validación funcional.
 
